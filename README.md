@@ -17,7 +17,18 @@ This repository serves as:
 - Submit sitemap to search engines like Google & Bing.
 - Share all links with collaborators easily.
 - Keep version control of published URLs for SEO tracking.
-
+- 
+## 🔗 Main URLs
+Here are the included pages:
+- https://pageengineer.com/
+- https://pageengineer.com/blog
+- https://pageengineer.com/about
+- https://pageengineer.com/ai-test
+- https://pageengineer.com/contact
+- https://pageengineer.com/services
+- https://pageengineer.com/advertise
+- https://pageengineer.com/privacy-policy
+- https://pageengineer.com/terms
 ## 🔗 Example URLs
 Some URLs included in this repo:
 - https://pageengineer.com/blog/30-web3-blockchain-interview-questions-2025
