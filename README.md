@@ -22,6 +22,7 @@ This repository serves as:
 Here are the included pages:
 - https://pageengineer.com/
 - https://pageengineer.com/blog
+- https://pageengineer.com/tools
 - https://pageengineer.com/about
 - https://pageengineer.com/ai-test
 - https://pageengineer.com/contact
@@ -31,6 +32,7 @@ Here are the included pages:
 - https://pageengineer.com/terms
 ## 🔗 Example URLs
 Some URLs included in this repo:
+- https://pageengineer.com/blog/top-30-object-oriented-programming-oops-interview-questions-and-answers
 - https://pageengineer.com/blog/30-web3-blockchain-interview-questions-2025
 - https://pageengineer.com/blog/javascript-array-methods-explained-with-examples-2025-guide
 - https://pageengineer.com/blog/top-30-python-interview-questions-answers
