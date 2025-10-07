@@ -40,6 +40,6 @@ Some URLs included in this repo:
 - https://pageengineer.com/blog/10-best-ai-tools-every-web-developer-should-use-in-2025-with-official-links
 
 ## 🛠️ How to Use
-1. Clone this repo:
+1. Clone this repo:-
    ```bash
    git clone https://github.com/Jitendrakumar99/SEOptimer.git
